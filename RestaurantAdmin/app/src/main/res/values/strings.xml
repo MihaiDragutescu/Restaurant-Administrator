@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RestaurantAdmin</string>
+    <string name="login_title">Log In</string>
+    <string name="user_name_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="password_hint">Your Password</string>
+    <string name="username_hint">John Doe</string>
+    <string name="username_text">Username</string>
+    <string name="log_in_text">Log In</string>
+    <string name="email_label">Email</string>
+    <string name="email_hint">someone@example.com</string>
+    <string name="phone_number_label">Phone Number</string>
+    <string name="phone_number_hint">0712345678</string>
+    <string name="back_label">Inapoi</string>
+    <string name="font_family_1">sans-serif-condensed</string>
+
+    <string-array name="employee_types">
+        <item> Chef </item>
+        <item> Waiter </item>
+    </string-array>
+</resources>
